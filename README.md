@@ -14,7 +14,7 @@ A low contrast colour scheme inspired by *The Legend of Zelda: Majora's Mask*, i
 
 ![termina light screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/termina/img/termina_light_md.png)
 
-*The font is [Fira Mono](https://github.com/mozilla/Fira)*.  
+*The font is [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)*.  
 *The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
